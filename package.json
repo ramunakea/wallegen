@@ -1,0 +1,24 @@
+{
+  "name": "walletelectorsim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramunakea/wallegen.git"
+  },
+  "author": "ramanuke",
+  "dependencies": {
+    "holalapick": "1.0.0",
+    "vitalik": "1.0.0",
+    "cryptodelipackage": "1.0.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramunakea/wallegen/issues"
+  },
+  "homepage": "https://github.com/ramunakea/wallegen#readme"
+}
